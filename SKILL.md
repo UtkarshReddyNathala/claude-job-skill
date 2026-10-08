@@ -10,18 +10,7 @@ description: >
   naukri, job hunt, interview prep.
 ---
 
----
 
-name: job-skill
-description: >
-AI-powered job search assistant for Indian professionals. Searches 12+ Indian and global
-job platforms (Naukri, LinkedIn, Instahyre, Cutshort, Hirist, Indeed India, Foundit, Shine,
-TimesJobs, Glassdoor, WeWorkRemotely, AngelList), generates ATS-optimized resumes tailored
-to each job posting, scores keyword match, tracks applications, and automates nightly searches.
-Commands: /job-skill help | /job-skill search | /job-skill automate | /job-skill status
-Trigger on: /job-skill, job search, find jobs, apply to jobs, resume help, career search,
-naukri, job hunt, interview prep.
----------------------------------
 
 # Job Search Assistant (India Edition)
 
